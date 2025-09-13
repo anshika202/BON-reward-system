@@ -1,3 +1,9 @@
+/* NOTE:
+ *  For local testing, in-memory or pre-defined data is being used
+ *  Schema will be created depending upon the business requirements
+ */
+
+
 const users = [
   { id: 1, name: "Alice" },
   { id: 2, name: "Bob" },
